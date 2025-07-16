@@ -1,49 +1,60 @@
-# Hello, I'm Hammad Bin Jamil (HBJ455)!  
+### 👋 Hi, I'm Hammad Bin Jamil
 
-**Future Goal:** Aspiring Data Analyst | Currently upskilling in SQL, Python & Analytics Tools  
+🎯 **Conference Coordinator | Event Strategist | Tech-Enthusiast**  
+📍 Siliguri, West Bengal, India
 
-Welcome to my GitHub profile! I am a customer-centric tech enthusiast with a passion for empowering local businesses through digital transformation. With over 5 years in field sales, technical support, and customer relationship management, I bridge the gap between technology and business growth — while actively working toward my goal of becoming a **data-driven decision-maker**.  
+---
 
-## About Me  
+🔹 I work at **Bespoke Global Litigation Summit**, where I specialize in executing high-level international conferences.  
+🔹 With a background in **client communication**, **delegate coordination**, and **live event ops**, I thrive in fast-paced, detail-oriented environments.  
+🔹 Passionate about **human rights**, **science**, and **technology** — I’m always open to volunteering and collaboration.  
 
-- **Profession:** Tech-Savvy Problem Solver in Sales and Support | **Future Data Analyst**  
-- **Location:** Siliguri, India  
-- **Top Skills:** Customer Relationship Management, Sales Pitching, Technical Troubleshooting, Data Analysis (Learning)  
-- **Current Focus:** SQL, Python, Excel, Power BI, and statistical fundamentals for analytics.  
-- **Mission:** To leverage data for actionable business insights, combining my people-first experience with analytical rigor.  
+---
 
-## Current Focus  
+#### 🚀 Skills & Interests:
 
-### Data Analyst Journey  
-- 📊 Learning **SQL** (queries, joins, optimization) and **Python** (Pandas, NumPy, visualization).  
-- 📈 Practicing real-world datasets to derive insights (sales trends, customer behavior).  
-- 🔍 Exploring tools like **Power BI/Tableau** for dashboards and storytelling.  
+- 🎤 Conference & Event Management  
+- 🧩 Speaker Engagement & Operations  
+- 💻 Tech Coordination & Backend Execution  
+- 🌐 Human Rights | Science | Tech Innovation  
 
-### Ongoing Projects  
-- [Awareness Repository](https://github.com/HBJ455/Github.1): Social scam education (v1.0.0 released).  
-- **Small Business Analytics:** Developing tools to analyze digital payment adoption patterns.  
+---
 
-## Work Experience  
+#### 🔗 Connect with me:
 
-**Field Executive (Paytm Projects)**  
-- Onboarded 500+ merchants, collected and analyzed field feedback to improve services.  
+- [LinkedIn](https://www.linkedin.com/in/hammad-bin-jamil/)  
+- [Facebook](https://www.facebook.com/hammad.binjamil)  
+- [GitHub Projects – coming soon...]  
 
-**Service Engineer (Akhtar Electronics)**  
-- Diagnosed 1000+ tech cases, documented repair trends to optimize workflows.  
+---
 
-## Core Skills  
-- ✓ **Technical:** Troubleshooting, Data Analysis (in progress), Basic Automation  
-- ✓ **Business:** Sales, CRM, Market Research  
-- ✓ **Soft Skills:** Communication, Problem-Solving  
+#### 💼 Experience:
 
-## Let's Connect  
-Open to collaborations in **data analysis projects** or mentorship opportunities!  
+**Conference Co-ordinator**  
+*Bespoke Global Litigation Summit* | Siliguri, West Bengal  
+_2025 – Present_  
+- Organizing and executing global litigation events with precision and professionalism.  
+- Managing backend operations, speaker coordination, and live event flow.  
 
-📧 **Email:** [hammadbinjamil890@gmail.com](mailto:hammadbinjamil890@gmail.com)  
-💼 **LinkedIn:** [Hammad Bin Jamil] https://www.linkedin.com/in/hammad1234
-📱 **Facebook:** [HBJ] https://www.facebook.com/share/16htlUntcC/
+**Field Sales Executive**  
+*Paytm Services Pvt Ltd* | Siliguri, West Bengal  
+_2024 – 2025_  
+- Helped local shopkeepers adopt digital payment systems and onboarded them for credit and loan support.  
+- Focused on expanding financial inclusion and digital infrastructure at the grassroots level.
 
-## GitHub Stats  
-[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HBJ455&show_icons=true&theme=github_dark)](https://github.com/HBJ455)  
+**HR Executive**  
+*Inodaya Preceptors Pvt Ltd* | Bengaluru  
+_2023 – 2024_  
+- Connected fresh graduates and diploma holders to the right career opportunities.  
+- Managed HR coordination, candidate onboarding, and client requirements.  
 
-> *"Data is the new oil, but only if refined."* — Let’s build a future powered by insights!  
+**Freelance Electronics Technician**  
+_Self-employed_  
+_2018 – 2023_  
+- Repaired over 500+ LED, LCD TVs, and sound systems with hands-on expertise.  
+- Built strong customer trust and problem-solving ability.
+
+---
+
+> “Empowering global conversations through strategic coordination and a tech-driven mindset.”
+> 

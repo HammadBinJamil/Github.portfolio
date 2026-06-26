@@ -39,6 +39,7 @@ Self‑employed | Siliguri
 -Built strong customer trust through problem‑solving and reliable service.
 
 📂 Projects & Contributions
+
 Bespoke Global Legal Summit – Delhi Edition 2026 (Corporate Law & ADR Summit & Awards) (Ongoing)
 -Leading the ADR summit with focus on arbitration, mediation, corporate governance, and awards.
 -Managing speaker acquisition, delegate engagement, sponsorship sales, and end‑to‑end operations.

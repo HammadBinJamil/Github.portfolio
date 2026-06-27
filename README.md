@@ -43,6 +43,7 @@ Self‑employed | Siliguri
 Bespoke Global Legal Summit – Delhi Edition 2026 (Corporate Law & ADR Summit & Awards) (Ongoing)
 -Leading the ADR summit with focus on arbitration, mediation, corporate governance, and awards.
 -Managing speaker acquisition, delegate engagement, sponsorship sales, and end‑to‑end operations.
+
 -Bespoke Global Legal Summit – Bengaluru Edition 2026
 -Curated panels on AI, IP, ESG, arbitration, and RegTech.
 -Directed operations and delivered a knowledge‑driven agenda reinforcing Bespoke’s role as India’s hub for legal innovation.
